@@ -1,0 +1,45 @@
+{
+  "flow": [
+    [
+      "Home",
+      "Start My Comeback",
+      "My Journey"
+    ],
+    [
+      "My Journey",
+      "Build My Career Comeback",
+      "Career Snapshot"
+    ],
+    [
+      "Career Snapshot",
+      "Explore My Career Path",
+      "Career Path"
+    ],
+    [
+      "Career Path",
+      "View Skill Gap",
+      "Skill Gap"
+    ],
+    [
+      "Skill Gap",
+      "Build My Roadmap",
+      "My Roadmap"
+    ],
+    [
+      "My Roadmap",
+      "View My Week",
+      "My Week"
+    ],
+    [
+      "My Week",
+      "Open Career Toolkit",
+      "Career Toolkit"
+    ],
+    [
+      "Career Toolkit",
+      "View My Progress",
+      "My Progress"
+    ]
+  ],
+  "fallback": "If true multi-page navigation is unavailable, use clearly separated dashboard sections and progressive disclosure rather than one long form."
+}
