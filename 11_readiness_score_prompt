@@ -1,0 +1,12 @@
+{
+  "task": "Calculate an indicative career readiness score from 0 to 100",
+  "dimensions": [
+    "Role alignment",
+    "Technical/professional skills",
+    "Transferable skills",
+    "Portfolio readiness",
+    "Resume readiness",
+    "Interview readiness"
+  ],
+  "disclaimer": "This is an indicative planning metric, not a hiring assessment."
+}
