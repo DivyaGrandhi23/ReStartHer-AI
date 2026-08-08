@@ -1,0 +1,38 @@
+{
+  "app": {
+    "name": "ReStartHer AI",
+    "tagline": "Your experience didn't stop. Your next chapter starts here.",
+    "persona": "Women returning after a career break",
+    "theme": {
+      "mode": "light",
+      "background": "white",
+      "accent": [
+        "soft lavender",
+        "soft blue"
+      ],
+      "style": "classic, elegant, professional",
+      "spacing": "generous",
+      "responsive": true
+    }
+  },
+  "navigation": [
+    "Home",
+    "My Journey",
+    "Career Snapshot",
+    "Career Path",
+    "Skill Gap",
+    "My Roadmap",
+    "My Week",
+    "Career Toolkit",
+    "My Progress"
+  ],
+  "design_rules": [
+    "Website/dashboard feel, not a long form",
+    "Progressive disclosure",
+    "Generous spacing",
+    "Clear typography",
+    "No dark theme",
+    "No clutter",
+    "All interactions must use user inputs"
+  ]
+}
