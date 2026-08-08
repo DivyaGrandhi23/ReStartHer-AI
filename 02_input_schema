@@ -1,0 +1,134 @@
+{
+  "profile": {
+    "previous_job_title": {
+      "type": "text",
+      "required": true
+    },
+    "industry": {
+      "type": "text",
+      "required": true
+    },
+    "years_of_experience": {
+      "type": "number",
+      "required": true
+    },
+    "previous_responsibilities": {
+      "type": "textarea",
+      "required": true
+    },
+    "previous_skills": {
+      "type": "textarea",
+      "required": true
+    },
+    "career_break_length": {
+      "type": "select",
+      "options": [
+        "Less than 1 year",
+        "1-2 years",
+        "2-3 years",
+        "3-5 years",
+        "More than 5 years"
+      ]
+    },
+    "career_break_category": {
+      "type": "select",
+      "options": [
+        "Caregiving",
+        "Family responsibilities",
+        "Relocation",
+        "Further education",
+        "Personal reasons",
+        "Other"
+      ]
+    },
+    "current_skills": {
+      "type": "textarea",
+      "required": true
+    },
+    "preferred_career_field": {
+      "type": "select",
+      "options": [
+        "Technology",
+        "Data / Analytics",
+        "Business",
+        "Finance",
+        "Marketing",
+        "Human Resources",
+        "Design",
+        "Education",
+        "Healthcare",
+        "Entrepreneurship",
+        "Other"
+      ]
+    },
+    "desired_target_role": {
+      "type": "text",
+      "required": true
+    },
+    "available_learning_hours_per_week": {
+      "type": "number",
+      "min": 1,
+      "max": 40,
+      "required": true
+    },
+    "learning_budget": {
+      "type": "select",
+      "options": [
+        "Free only",
+        "Low budget",
+        "Moderate budget",
+        "Flexible budget"
+      ]
+    },
+    "preferred_work_arrangement": {
+      "type": "select",
+      "options": [
+        "Remote",
+        "Hybrid",
+        "On-site",
+        "Flexible"
+      ]
+    },
+    "career_goal": {
+      "type": "textarea",
+      "required": true
+    }
+  },
+  "journey_steps": [
+    {
+      "step": 1,
+      "title": "Where are you coming from?",
+      "fields": [
+        "previous_job_title",
+        "industry",
+        "years_of_experience"
+      ]
+    },
+    {
+      "step": 2,
+      "title": "Tell us about your experience",
+      "fields": [
+        "previous_responsibilities",
+        "previous_skills"
+      ]
+    },
+    {
+      "step": 3,
+      "title": "Where are you now?",
+      "fields": [
+        "career_break_length",
+        "current_skills",
+        "available_learning_hours_per_week"
+      ]
+    },
+    {
+      "step": 4,
+      "title": "Where do you want to go?",
+      "fields": [
+        "preferred_career_field",
+        "desired_target_role",
+        "career_goal"
+      ]
+    }
+  ]
+}
