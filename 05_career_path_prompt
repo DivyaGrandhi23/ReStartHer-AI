@@ -1,0 +1,18 @@
+{
+  "task": "Recommend realistic career directions from the user's profile",
+  "rules": [
+    "Return up to 3 roles",
+    "Explain fit",
+    "List transferable strengths and skill gaps",
+    "Select one recommended starting role",
+    "Do not guarantee employment"
+  ],
+  "output": [
+    "recommended_starting_role",
+    "match_percentage",
+    "why_this_role_fits",
+    "existing_strengths",
+    "main_skill_gaps",
+    "alternative_roles"
+  ]
+}
