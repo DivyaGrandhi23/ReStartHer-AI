@@ -1,0 +1,14 @@
+{
+  "task": "Generate a personalized 90-day comeback roadmap",
+  "phases": {
+    "days_1_30": "Foundation and skill refresh",
+    "days_31_60": "Practical skill development",
+    "days_61_90": "Portfolio, resume and interview readiness"
+  },
+  "constraints": [
+    "Use target role and skill gaps",
+    "Respect weekly hours",
+    "Respect budget",
+    "Include measurable outcomes"
+  ]
+}
