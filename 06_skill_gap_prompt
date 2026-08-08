@@ -1,0 +1,13 @@
+{
+  "task": "Create a visual skill-gap analysis",
+  "categories": {
+    "strong": "Already demonstrates useful capability",
+    "refresh": "Previously used or partially known skill",
+    "learn": "New skill required for target role"
+  },
+  "output": [
+    "strong",
+    "refresh",
+    "learn"
+  ]
+}
