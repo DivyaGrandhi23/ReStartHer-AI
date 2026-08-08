@@ -1,0 +1,16 @@
+{
+  "trigger_options": [
+    "Missed 1 week",
+    "Missed 2 weeks",
+    "Missed several tasks",
+    "Need less study time",
+    "Need to pause temporarily"
+  ],
+  "task": "Adapt the remaining plan after the user falls behind",
+  "rules": [
+    "Do not automatically restart",
+    "Preserve highest-priority outcomes",
+    "Recalculate workload",
+    "Be supportive"
+  ]
+}
