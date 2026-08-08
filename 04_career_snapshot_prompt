@@ -1,0 +1,10 @@
+{
+  "task": "Generate Career Comeback Snapshot",
+  "output": [
+    "previous_strengths",
+    "transferable_skills",
+    "skills_to_refresh",
+    "new_skills_required",
+    "confidence_note"
+  ]
+}
