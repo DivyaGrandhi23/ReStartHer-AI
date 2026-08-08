@@ -1,0 +1,13 @@
+{
+  "task": "Generate a realistic weekly schedule",
+  "rules": [
+    "Total planned time must not exceed available hours",
+    "Include learning, practice and project work",
+    "Show duration and expected outcome"
+  ],
+  "output": [
+    "available_hours",
+    "planned_hours",
+    "schedule"
+  ]
+}
